@@ -1,0 +1,32 @@
+body {
+  background-image: url(../../assets/img/photo-1656274404460-14427bdd5fff.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#hero {
+  padding-top: 7rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#row_div {
+  padding-top: 5rem;
+}
+
+#projects {
+  padding-top: 3rem;
+}
+
+#cookie {
+  width: 215px;
+}
+
+#footer {
+  padding-top: 10rem;
+}
+
+#p_row {
+  padding-top: 2.5rem;
+}
+
